@@ -1,7 +1,6 @@
 /**
  * Transe
  */
-
 import React, { Component } from 'react';
 import {StyleSheet} from 'react-native';
 import { StackNavigator } from 'react-navigation';
